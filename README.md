@@ -1,2 +1,50 @@
 # Basic-Computer-course
 Essentials Computer Course Topics for Schools Students and Fresher
+Creating Basic Computer Course Topics for High School Students Fresh Job seekers to acquire essential Computer Knowledge
+
+Diploma in Computer Science
+
+History Of Computer
+Evolution of computers
+Knowing computer
+Computer Hardware
+ Keyboard
+ Mouse
+ CPU
+ Monitor
+ Storage
+ Cables
+ Cameras
+ finding fault in computer
+ Fixing fault in Computer hardware
+ Replacing computer parts
+Computer Software
+ Notepad
+ Wordpad
+ Paint
+ Adobe Reader
+ Zip and Unzip files
+ File explorer
+ Video Player
+ Photos and Photo Apps
+ Internet explorers
+ 
+Operating Computer using GUI Based Operating System
+using Basic Computer Applications
+Introduction to Excel
+Introduction to Word
+ Practicing Typing speed
+Introduction to PowerPoint
+Introduction to Outlook
+Introduction to Paint
+Introduction to O365
+Computer Networking
+Introduction to Internet
+Email and communication system
+using internet for Research & development
+Using Social Media
+Social Media for Work
+Job Search Online
+Essential Skills for any Job
+Using the Internet for Learning
+Cloud Computing
